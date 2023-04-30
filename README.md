@@ -16,3 +16,8 @@ Google Cloud Platform
     Compute Instance
     BigQuery
     Looker Studio
+
+## Credit
+Thanks to @darshilparmar for the tutorial
+https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project
+https://www.youtube.com/watch?v=WpQECq5Hx9g&ab_channel=DarshilParmar
